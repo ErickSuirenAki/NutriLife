@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="Theme.NutriLife" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/fundo</item>
+        <item name="android:fontFamily">@font/baloo_bhai</item>
+        <item name="colorPrimary">#66BB6A</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <item name="colorSecondary">#FF7043</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <item name="android:statusBarColor">#43A047</item>
+        <item name="android:navigationBarColor">#FAFAFA</item>
+
+    </style>
+
+</resources>
